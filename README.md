@@ -1,6 +1,6 @@
 # README - Práctica 3: Visión por Computador
 
-## Autor: eduardo Gainza Koller
+## Autor: Eduardo Gainza Koller
 
 ## Introducción
 
